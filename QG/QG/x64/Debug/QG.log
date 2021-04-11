@@ -1,0 +1,65 @@
+﻿  demo.cpp
+  FillReview.cpp
+  menu.cpp
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(141,12): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(130): message : 在编译 类 模板 成员函数“bool QGForwardList<int>::insert(unsigned int,ElemType)”时
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\22800\Desktop\QG\QG\menu.cpp(172): message : 查看对正在编译的函数 模板 实例化“bool QGForwardList<int>::insert(unsigned int,ElemType)”的引用
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(82): message : 在编译 类 模板 成员函数“bool QGForwardList<int>::push_back(ElemType)”时
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(12): message : 查看对正在编译的函数 模板 实例化“bool QGForwardList<int>::push_back(ElemType)”的引用
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(4): message : 在编译 类 模板 成员函数“QGForwardList<int>::QGForwardList(void)”时
+C:\Users\22800\Desktop\QG\QG\menu.cpp(271): message : 查看对正在编译的函数 模板 实例化“QGForwardList<int>::QGForwardList(void)”的引用
+C:\Users\22800\Desktop\QG\QG\menu.cpp(271): message : 查看对正在编译的 类 模板 实例化“QGForwardList<int>”的引用
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(153,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(170,12): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(163): message : 在编译 类 模板 成员函数“bool QGForwardList<int>::erase(unsigned int)”时
+C:\Users\22800\Desktop\QG\QG\menu.cpp(189): message : 查看对正在编译的函数 模板 实例化“bool QGForwardList<int>::erase(unsigned int)”的引用
+C:\Users\22800\Desktop\QG\QG\qgforwardlist.cpp(181,28): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(145,12): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(133): message : 在编译 类 模板 成员函数“bool QGList<int>::insert(unsigned int,ElemType)”时
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\22800\Desktop\QG\QG\menu.cpp(172): message : 查看对正在编译的函数 模板 实例化“bool QGList<int>::insert(unsigned int,ElemType)”的引用
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(109): message : 在编译 类 模板 成员函数“bool QGList<int>::push_back(ElemType)”时
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(36): message : 查看对正在编译的函数 模板 实例化“bool QGList<int>::push_back(ElemType)”的引用
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(5): message : 在编译 类 模板 成员函数“QGList<int>::QGList(void)”时
+C:\Users\22800\Desktop\QG\QG\menu.cpp(279): message : 查看对正在编译的函数 模板 实例化“QGList<int>::QGList(void)”的引用
+C:\Users\22800\Desktop\QG\QG\menu.cpp(279): message : 查看对正在编译的 类 模板 实例化“QGList<int>”的引用
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(157,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(218,12): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(211): message : 在编译 类 模板 成员函数“bool QGList<int>::erase(unsigned int)”时
+C:\Users\22800\Desktop\QG\QG\menu.cpp(189): message : 查看对正在编译的函数 模板 实例化“bool QGList<int>::erase(unsigned int)”的引用
+C:\Users\22800\Desktop\QG\QG\qglist.cpp(231,27): warning C4018: “<”: 有符号/无符号不匹配
+  qgforwardlist.cpp
+  qglist.cpp
+  正在生成代码...
+  QG.vcxproj -> C:\Users\22800\Desktop\QG\x64\Debug\QG.exe
