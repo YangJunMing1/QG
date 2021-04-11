@@ -1,0 +1,3 @@
+C:\Users\22800\Desktop\顺序队列\x64\Debug\队列1.exe
+C:\Users\22800\Desktop\队列\x64\Debug\队列1.exe
+C:\Users\22800\Desktop\大组作业队列\队列\x64\Debug\队列1.exe
